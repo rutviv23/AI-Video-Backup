@@ -37,6 +37,25 @@
         "https://www.tweedewereldoorlog.nl/100voorwerpen/en/voorwerp/christ-and-the-adulteress/"
       ],
       "notes": "Remake after Rutvi said v1 was boring: stronger hook, 13 shots, stamp slams/shake/flash, tension music. Safety pass: removed unsourced 'Nobody believed him'; no real faces or Nazi symbols; claims limited to what all 3 sources support. Old v1 (VwLpTEPcz7c) is still private; Rutvi can delete it in Studio."
+    },
+    {
+      "topic": "The Emu War (1932)",
+      "date": "2026-11-17",
+      "videoId": "pw8dU7ymYyw",
+      "title": "Australia Lost a War to Birds #Shorts",
+      "hook_type": "famous-funny",
+      "test": "funny-1 (made manually with Rutvi, new funny style: plan-vs-reality gags, reaction faces, score stamp)",
+      "status": "private, awaiting approval",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Emu_War",
+        "https://www.britannica.com/topic/Emu-War",
+        "https://www.mentalfloss.com/history/when-australia-went-war-its-emus"
+      ],
+      "notes": "Lantern Tale style files are stored in styles/lantern-tale in this repo because the cloud skills folder does not contain them. The emu video was built from styles/lantern-tale with custom shots (see operation: new_video.sh lantern-tale <name>)."
     }
+  ],
+  "learnings": [
+    "Nov 16-17: Eiffel (famous subject) 1,117 views; Mincemeat 102 views in ~20h; unfamiliar/dark WWII topics and a slow 'In 1943' opening did poorly.",
+    "Direction chosen by Rutvi: funny true stories, general audience (not made for kids), 2-second hook, famous subject in the title, Lantern Tale style with big reaction faces, sound effects and a punchline/score-card ending."
   ]
 }

@@ -1,0 +1,79 @@
+{
+ "duration": 37.844,
+ "voice": "am_michael",
+ "speed": 1.05,
+ "lines": [
+  {
+   "i": 0,
+   "text": "In nineteen twenty-five, a con man sold the Eiffel Tower.",
+   "start": 0.45,
+   "end": 4.251
+  },
+  {
+   "i": 1,
+   "text": "Yes, the whole thing.",
+   "start": 4.451,
+   "end": 5.543
+  },
+  {
+   "i": 2,
+   "text": "See, he'd read that the tower was rusting,",
+   "start": 5.843,
+   "end": 8.193
+  },
+  {
+   "i": 3,
+   "text": "and that Paris was paying a fortune to fix it,",
+   "start": 8.663,
+   "end": 11.143
+  },
+  {
+   "i": 4,
+   "text": "so he sent forged letters to scrap dealers, pretending to be a government official.",
+   "start": 11.633,
+   "end": 16.578
+  },
+  {
+   "i": 5,
+   "text": "He invited them to a private meeting at a fancy hotel,",
+   "start": 16.878,
+   "end": 19.938
+  },
+  {
+   "i": 6,
+   "text": "where one nervous dealer handed over a suitcase of cash.",
+   "start": 20.528,
+   "end": 23.97
+  },
+  {
+   "i": 7,
+   "text": "Then the con man vanished,",
+   "start": 24.27,
+   "end": 25.77
+  },
+  {
+   "i": 8,
+   "text": "and the dealer was too embarrassed to call the police.",
+   "start": 26.19,
+   "end": 28.893
+  },
+  {
+   "i": 9,
+   "text": "So he came back and tried it again,",
+   "start": 29.193,
+   "end": 30.933
+  },
+  {
+   "i": 10,
+   "text": "but this time he got spooked, and fled to America.",
+   "start": 31.373,
+   "end": 34.365
+  },
+  {
+   "i": 11,
+   "text": "And yes, the tower is still standing.",
+   "start": 34.665,
+   "end": 36.544
+  }
+ ]
+}

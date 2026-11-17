@@ -1,0 +1,27 @@
+{
+  "title": "The Man Who Sold the Eiffel Tower",
+  "voice": "am_michael",
+  "speed": 1.05,
+  "lead": 0.45,
+  "outro": 1.0,
+  "gap": 0.3,
+  "music": "bed",
+  "sources": [
+    "Smithsonian Magazine, 'The Smoothest Con Man That Ever Lived' (1925: newspaper story on the tower's rust and upkeep costs; forged government stationery; private meetings at the Hotel de Crillon; dealer Andre Poisson paid and never reported it; Lustig returned to try again, then fled to the United States)",
+    "Also read for cross-checking: France Today, 'How the Eiffel Tower Was Sold'; The Hustle, 'The con man who sold the Eiffel Tower, twice'; ISRI, 'Selling the Eiffel Tower'. Exact sums and dealer counts differ between sources, so the script leaves them out."
+  ],
+  "lines": [
+    { "text": "In nineteen twenty-five, a con man sold the Eiffel Tower.", "caps": "in *nineteen twenty-five, | a *con man | *sold the | eiffel *tower", "gap": 0.2 },
+    { "text": "Yes, the whole thing.", "caps": "*yes, | the *whole thing" },
+    { "text": "See, he'd read that the tower was rusting,", "caps": "see, he'd *read | the tower was *rusting", "gap": 0.1 },
+    { "text": "and that Paris was paying a fortune to fix it,", "caps": "and *paris was | paying a *fortune | to *fix it", "gap": 0.1 },
+    { "text": "so he sent forged letters to scrap dealers, pretending to be a government official.", "caps": "so he sent | *forged letters | to *scrap dealers | pretending to be | a *government official" },
+    { "text": "He invited them to a private meeting at a fancy hotel,", "caps": "he *invited them | to a *private meeting | at a *fancy hotel", "gap": 0.1 },
+    { "text": "where one nervous dealer handed over a suitcase of cash.", "caps": "where one | *nervous dealer | handed over | a *suitcase of cash" },
+    { "text": "Then the con man vanished,", "caps": "then the *con man | *vanished", "gap": 0.1 },
+    { "text": "and the dealer was too embarrassed to call the police.", "caps": "and the *dealer | too *embarrassed | to call the *police" },
+    { "text": "So he came back and tried it again,", "caps": "so he *came back | and *tried it again", "gap": 0.1 },
+    { "text": "but this time he got spooked, and fled to America.", "caps": "but this time | he got *spooked | and fled to *america" },
+    { "text": "And yes, the tower is still standing.", "caps": "and *yes, | the tower is | still *standing" }
+  ]
+}
