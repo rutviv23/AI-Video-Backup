@@ -1,7 +1,7 @@
 {
  "title": "How the Howrah Bridge Was Built (Hindi audio, English captions)",
  "voice": "hf_beta",
- "speed": 0.85,
+ "speed": 1.0,
  "lang": "hi",
  "lead": 0.35,
  "outro": 1.0,
@@ -11,7 +11,8 @@
   "Wikipedia, 'Howrah Bridge' (riveted, no nuts and bolts; contract 1935, work from 1936; 26,500 tons planned, England could supply only 3,000 tonnes, Tata Steel supplied 23,000 tons; opened 3 February 1943)",
   "BBJ Construction, 'Rabindra Setu / Howrah Bridge' (705 m long, 1,500 ft main span, no nuts and bolts, cantilever arms built out from the anchor spans toward the centre, sixteen 800-ton hydraulic jacks joined the two halves, Tata Steel 23,000 tons, opened 3 February 1943)",
   "The Better India, 'Howrah Bridge 75 years' (1,500 ft main span, sixteen 800-tonne hydraulic jacks, 26,500 tonnes steel mostly from Tata Steel, riveted with no nuts and bolts)",
-  "Incredible India (opened 3 February 1943, construction began 1936, cantilever bridge without a single nut or bolt)"
+  "Incredible India (opened 3 February 1943, construction began 1936, cantilever bridge without a single nut or bolt)",
+  "Wikipedia and BBJ Construction: total length 705 m"
  ],
  "lines": [
   {
@@ -19,8 +20,8 @@
    "caps": "*howrah bridge | has not a single | *nut or bolt"
   },
   {
-   "text": "कोलकाता का ये विशाल पुल सिर्फ़ रिवेट से जोड़ा गया है।",
-   "caps": "kolkata's giant bridge | is joined by | *rivets only"
+   "text": "कोलकाता का ये विशाल पुल सिर्फ़ रिवेट से जोड़ा गया है। ये हुगली नदी पर, कोलकाता में है।",
+   "caps": "kolkata's giant bridge | is joined by | *rivets only | on the *hooghly river"
   },
   {
    "text": "काम उन्नीस सौ छत्तीस में शुरू हुआ। इसे क़रीब छब्बीस हज़ार पाँच सौ टन स्टील चाहिए था।",
@@ -47,8 +48,8 @@
    "caps": "it opened on | *3 february 1943"
   },
   {
-   "text": "इसका मुख्य स्पैन पंद्रह सौ फ़ीट का है।",
-   "caps": "its main span | is *1,500 feet"
+   "text": "इसका मुख्य स्पैन पंद्रह सौ फ़ीट का है। पूरे पुल की लंबाई सात सौ पाँच मीटर है।",
+   "caps": "its main span | is *1,500 feet | total length *705 metres"
   },
   {
    "text": "सीख: बड़ी चीज़ें, छोटे छोटे रिवेट से जुड़ती हैं। अगला कौन सा पुल बनाएँ?",
