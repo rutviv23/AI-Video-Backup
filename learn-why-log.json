@@ -1,83 +1,92 @@
 {
-  "videos": [
-    {
-      "topic": "Eiffel Tower con (Victor Lustig)",
-      "note": "earlier run"
-    },
-    {
-      "topic": "Cracking knuckles",
-      "note": "earlier run"
-    },
-    {
-      "topic": "Operation Mincemeat",
-      "note": "earlier run"
-    },
-    {
-      "topic": "Han van Meegeren, the forger who fooled Goering",
-      "date": "2026-11-16",
-      "videoId": "VwLpTEPcz7c",
-      "title": "The Forger Who Fooled G\u00f6ring #Shorts",
-      "status": "private, awaiting Rutvi's approval",
-      "sources": [
-        "https://en.wikipedia.org/wiki/Han_van_Meegeren",
-        "https://www.britannica.com/biography/Han-van-Meegeren",
-        "https://www.tweedewereldoorlog.nl/100voorwerpen/en/voorwerp/christ-and-the-adulteress/"
-      ],
-      "notes": "Lantern Tale style folder was NOT in the installed faceless-shorts skill; used Paper Atlas instead. Whisper model download is blocked in the cloud (HF 403), so captions use the built-in fallback (words spread inside exact voice line times). Skill is in the synced skills folder, not /mnt/skills. add_repo tool was unavailable but the repo was already the working dir. Render of 2D style takes ~90 s."
-    },
-    {
-      "topic": "Han van Meegeren v2 (punchier remake)",
-      "date": "2026-11-16",
-      "videoId": "Sj7y573xuJI",
-      "title": "He Sold a Fake to a Nazi Leader. Then Proved It #Shorts",
-      "status": "private, awaiting approval",
-      "sources": [
-        "https://en.wikipedia.org/wiki/Han_van_Meegeren",
-        "https://www.britannica.com/biography/Han-van-Meegeren",
-        "https://www.tweedewereldoorlog.nl/100voorwerpen/en/voorwerp/christ-and-the-adulteress/"
-      ],
-      "notes": "Remake after Rutvi said v1 was boring: stronger hook, 13 shots, stamp slams/shake/flash, tension music. Safety pass: removed unsourced 'Nobody believed him'; no real faces or Nazi symbols; claims limited to what all 3 sources support. Old v1 (VwLpTEPcz7c) is still private; Rutvi can delete it in Studio."
-    },
-    {
-      "topic": "The Emu War (1932)",
-      "date": "2026-11-17",
-      "videoId": "pw8dU7ymYyw",
-      "title": "Australia Lost a War to Birds #Shorts",
-      "hook_type": "famous-funny",
-      "test": "funny-1 (made manually with Rutvi, new funny style: plan-vs-reality gags, reaction faces, score stamp)",
-      "status": "private, awaiting approval",
-      "sources": [
-        "https://en.wikipedia.org/wiki/Emu_War",
-        "https://www.britannica.com/topic/Emu-War",
-        "https://www.mentalfloss.com/history/when-australia-went-war-its-emus"
-      ],
-      "notes": "Lantern Tale style files are stored in styles/lantern-tale in this repo because the cloud skills folder does not contain them. The emu video was built from styles/lantern-tale with custom shots (see operation: new_video.sh lantern-tale <name>)."
-    },
-    {
-      "topic": "The Pig War (1859)",
-      "date": "2026-11-19",
-      "videoId": "yHDF_BEWRQs",
-      "title": "The Pig That Nearly Started a War #Shorts",
-      "hook_type": "unfamiliar",
-      "test": "2 of 4 (Emu War counted as test 1, famous)",
-      "status": "private, awaiting Rutvi's approval",
-      "sources": [
-        "https://www.nps.gov/sajh/learn/historyculture/the-pig-war.htm",
-        "https://www.thecollector.com/pig-war-1859/"
-      ],
-      "notes": "Lantern Tale copied from repo styles/lantern-tale into the skill folder; chromium via @sparticuz/chromium; Whisper blocked so captions use fallback word spreading. Added pig, meadow, soldier props locally in the project shots.js (not saved into styles/). Omitted price/troop counts/arbitration year where sources differ. Next in test: famous (test 3)."
-    }
-  ],
-  "learnings": [
-    "Nov 16-17: Eiffel (famous subject) 1,117 views; Mincemeat 102 views in ~20h; unfamiliar/dark WWII topics and a slow 'In 1943' opening did poorly.",
-    "Direction chosen by Rutvi: funny true stories, general audience (not made for kids), 2-second hook, famous subject in the title, Lantern Tale style with big reaction faces, sound effects and a punchline/score-card ending.",
-    "Nov 19: Lighthouse video: 761 views in ~4h, 14 likes, public Nov 19. Eiffel: 1,125 views, 68% average viewed. Mincemeat: 104 views, 46% avg. Pig War uploaded Nov 19 12:46Z, private. Pattern: curiosity 'how does this work / what changed everything' + a concrete number or date in the first line beat obscure story topics. Lighthouse used a tiny 3D build look."
-  ],
-  "notes": [
-    {
-      "topic": "Emu War (3D Tall Tale sample)",
-      "videoId": "8mlJ3QkAA-o",
-      "status": "private, one-off style comparison with 2D (pw8dU7ymYyw); awaiting user choice of style"
-    }
-  ]
+ "videos": [
+  {
+   "topic": "Eiffel Tower con (Victor Lustig)",
+   "note": "earlier run"
+  },
+  {
+   "topic": "Cracking knuckles",
+   "note": "earlier run"
+  },
+  {
+   "topic": "Operation Mincemeat",
+   "note": "earlier run"
+  },
+  {
+   "topic": "Han van Meegeren, the forger who fooled Goering",
+   "date": "2026-11-16",
+   "videoId": "VwLpTEPcz7c",
+   "title": "The Forger Who Fooled Göring #Shorts",
+   "status": "private, awaiting Rutvi's approval",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Han_van_Meegeren",
+    "https://www.britannica.com/biography/Han-van-Meegeren",
+    "https://www.tweedewereldoorlog.nl/100voorwerpen/en/voorwerp/christ-and-the-adulteress/"
+   ],
+   "notes": "Lantern Tale style folder was NOT in the installed faceless-shorts skill; used Paper Atlas instead. Whisper model download is blocked in the cloud (HF 403), so captions use the built-in fallback (words spread inside exact voice line times). Skill is in the synced skills folder, not /mnt/skills. add_repo tool was unavailable but the repo was already the working dir. Render of 2D style takes ~90 s."
+  },
+  {
+   "topic": "Han van Meegeren v2 (punchier remake)",
+   "date": "2026-11-16",
+   "videoId": "Sj7y573xuJI",
+   "title": "He Sold a Fake to a Nazi Leader. Then Proved It #Shorts",
+   "status": "private, awaiting approval",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Han_van_Meegeren",
+    "https://www.britannica.com/biography/Han-van-Meegeren",
+    "https://www.tweedewereldoorlog.nl/100voorwerpen/en/voorwerp/christ-and-the-adulteress/"
+   ],
+   "notes": "Remake after Rutvi said v1 was boring: stronger hook, 13 shots, stamp slams/shake/flash, tension music. Safety pass: removed unsourced 'Nobody believed him'; no real faces or Nazi symbols; claims limited to what all 3 sources support. Old v1 (VwLpTEPcz7c) is still private; Rutvi can delete it in Studio."
+  },
+  {
+   "topic": "The Emu War (1932)",
+   "date": "2026-11-17",
+   "videoId": "pw8dU7ymYyw",
+   "title": "Australia Lost a War to Birds #Shorts",
+   "hook_type": "famous-funny",
+   "test": "funny-1 (made manually with Rutvi, new funny style: plan-vs-reality gags, reaction faces, score stamp)",
+   "status": "private, awaiting approval",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Emu_War",
+    "https://www.britannica.com/topic/Emu-War",
+    "https://www.mentalfloss.com/history/when-australia-went-war-its-emus"
+   ],
+   "notes": "Lantern Tale style files are stored in styles/lantern-tale in this repo because the cloud skills folder does not contain them. The emu video was built from styles/lantern-tale with custom shots (see operation: new_video.sh lantern-tale <name>)."
+  },
+  {
+   "topic": "The Pig War (1859)",
+   "date": "2026-11-19",
+   "videoId": "yHDF_BEWRQs",
+   "title": "The Pig That Nearly Started a War #Shorts",
+   "hook_type": "unfamiliar",
+   "test": "2 of 4 (Emu War counted as test 1, famous)",
+   "status": "private, awaiting Rutvi's approval",
+   "sources": [
+    "https://www.nps.gov/sajh/learn/historyculture/the-pig-war.htm",
+    "https://www.thecollector.com/pig-war-1859/"
+   ],
+   "notes": "Lantern Tale copied from repo styles/lantern-tale into the skill folder; chromium via @sparticuz/chromium; Whisper blocked so captions use fallback word spreading. Added pig, meadow, soldier props locally in the project shots.js (not saved into styles/). Omitted price/troop counts/arbitration year where sources differ. Next in test: famous (test 3)."
+  },
+  {
+   "id": "cydYxOfcpFM",
+   "title": "Howrah Bridge Has ZERO Nuts or Bolts",
+   "topic": "Howrah Bridge construction",
+   "style": "lantern-tale",
+   "audio": "hindi hm_omega, english captions",
+   "privacy": "private",
+   "uploaded": "2026-11-19"
+  }
+ ],
+ "learnings": [
+  "Nov 16-17: Eiffel (famous subject) 1,117 views; Mincemeat 102 views in ~20h; unfamiliar/dark WWII topics and a slow 'In 1943' opening did poorly.",
+  "Direction chosen by Rutvi: funny true stories, general audience (not made for kids), 2-second hook, famous subject in the title, Lantern Tale style with big reaction faces, sound effects and a punchline/score-card ending.",
+  "Nov 19: Lighthouse video: 761 views in ~4h, 14 likes, public Nov 19. Eiffel: 1,125 views, 68% average viewed. Mincemeat: 104 views, 46% avg. Pig War uploaded Nov 19 12:46Z, private. Pattern: curiosity 'how does this work / what changed everything' + a concrete number or date in the first line beat obscure story topics. Lighthouse used a tiny 3D build look."
+ ],
+ "notes": [
+  {
+   "topic": "Emu War (3D Tall Tale sample)",
+   "videoId": "8mlJ3QkAA-o",
+   "status": "private, one-off style comparison with 2D (pw8dU7ymYyw); awaiting user choice of style"
+  }
+ ]
 }
