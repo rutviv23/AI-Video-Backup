@@ -16,7 +16,7 @@
       "topic": "Han van Meegeren, the forger who fooled Goering",
       "date": "2026-11-16",
       "videoId": "VwLpTEPcz7c",
-      "title": "The Forger Who Fooled G\u00f6ring #Shorts",
+      "title": "The Forger Who Fooled Göring #Shorts",
       "status": "private, awaiting Rutvi's approval",
       "sources": [
         "https://en.wikipedia.org/wiki/Han_van_Meegeren",
@@ -52,6 +52,20 @@
         "https://www.mentalfloss.com/history/when-australia-went-war-its-emus"
       ],
       "notes": "Lantern Tale style files are stored in styles/lantern-tale in this repo because the cloud skills folder does not contain them. The emu video was built from styles/lantern-tale with custom shots (see operation: new_video.sh lantern-tale <name>)."
+    },
+    {
+      "topic": "The Pig War (1859)",
+      "date": "2026-11-19",
+      "videoId": "yHDF_BEWRQs",
+      "title": "The Pig That Nearly Started a War #Shorts",
+      "hook_type": "unfamiliar",
+      "test": "2 of 4 (Emu War counted as test 1, famous)",
+      "status": "private, awaiting Rutvi's approval",
+      "sources": [
+        "https://www.nps.gov/sajh/learn/historyculture/the-pig-war.htm",
+        "https://www.thecollector.com/pig-war-1859/"
+      ],
+      "notes": "Lantern Tale copied from repo styles/lantern-tale into the skill folder; chromium via @sparticuz/chromium; Whisper blocked so captions use fallback word spreading. Added pig, meadow, soldier props locally in the project shots.js (not saved into styles/). Omitted price/troop counts/arbitration year where sources differ. Next in test: famous (test 3)."
     }
   ],
   "learnings": [
