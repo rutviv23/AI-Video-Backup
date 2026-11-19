@@ -1,11 +1,11 @@
 {
  "title": "How the Howrah Bridge Was Built (Hindi audio, English captions)",
- "voice": "hm_omega",
- "speed": 0.95,
+ "voice": "hf_beta",
+ "speed": 0.85,
  "lang": "hi",
  "lead": 0.35,
  "outro": 1.0,
- "gap": 0.25,
+ "gap": 0.45,
  "music": "bed",
  "sources": [
   "Wikipedia, 'Howrah Bridge' (riveted, no nuts and bolts; contract 1935, work from 1936; 26,500 tons planned, England could supply only 3,000 tonnes, Tata Steel supplied 23,000 tons; opened 3 February 1943)",

@@ -75,6 +75,13 @@
    "audio": "hindi hm_omega, english captions",
    "privacy": "private",
    "uploaded": "2026-11-19"
+  },
+  {
+   "id": "g4Wa4QJCfw0",
+   "title": "Howrah Bridge Has ZERO Nuts or Bolts (soft hf_beta voice, 47.6s)",
+   "privacy": "private",
+   "uploaded": "2026-11-19",
+   "note": "replaces cydYxOfcpFM (hm_omega voice), which Rutvi may delete"
   }
  ],
  "learnings": [
@@ -87,6 +94,7 @@
    "topic": "Emu War (3D Tall Tale sample)",
    "videoId": "8mlJ3QkAA-o",
    "status": "private, one-off style comparison with 2D (pw8dU7ymYyw); awaiting user choice of style"
-  }
+  },
+  "Nov 19: Rutvi chose soft female Hindi voice hf_beta at speed 0.85 (gap 0.45), target ~49 s."
  ]
 }
