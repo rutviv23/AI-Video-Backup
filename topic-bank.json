@@ -1,0 +1,112 @@
+{
+  "topics": [
+    {
+      "rank": 1,
+      "title_idea": "The Lighthouse That Vanished in a Storm",
+      "family": "lighthouse",
+      "hook": "In 1703 a storm erased a lighthouse, and the men inside, without a trace.",
+      "facts": [
+        "Winstanley's tower first lit 14 Nov 1698",
+        "Great Storm destroyed it 8 Dec 1703 (27 Nov Old Style); Winstanley and five others inside, no trace found",
+        "Smeaton's 1759 replacement: dovetailed Cornish granite + marble dowels, modelled on an oak tree; lit 16 Oct 1759, served until 1882 (about 122 years)"
+      ],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Eddystone_Lighthouse"
+      ],
+      "do_not_say": "that Winstanley wished to be inside during the worst storm (unverified)"
+    },
+    {
+      "rank": 2,
+      "title_idea": "The Line on Every Ship (Plimsoll)",
+      "family": "invention-that-saved-lives",
+      "hook": "Ship owners overloaded and over-insured ships on purpose. One MP shouted 'villains' in Parliament, and a line was painted on every hull.",
+      "facts": [
+        "'Coffin ships' were overloaded, heavily insured",
+        "Plimsoll, MP for Derby, published Our Seamen 1873",
+        "22 Jul 1875 he called MPs 'villains' and shook his fist at the Speaker after Disraeli dropped the bill",
+        "Merchant Shipping Act 1876 set the safe-loading mark"
+      ],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Samuel_Plimsoll"
+      ]
+    },
+    {
+      "rank": 3,
+      "title_idea": "The Canal That Lifts Ships With No Pumps",
+      "family": "hidden-engineering",
+      "hook": "Panama's locks lift giant ships 85 feet using only gravity.",
+      "facts": [
+        "Water moves by gravity through culverts and valves, no pumps",
+        "Each chamber uses 26.7 million US gal (101,000 m3) per fill",
+        "Gatun lifts 85 ft in three steps; chamber 1,050 ft long, 110 ft wide",
+        "Electric locomotives ('mules') on the walls guide ships; the ship's own engines move it forward"
+      ],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Panama_Canal_locks"
+      ]
+    },
+    {
+      "rank": 4,
+      "title_idea": "The Giant Ball That Saves a Skyscraper",
+      "family": "hidden-engineering",
+      "hook": "Inside Taipei 101 a 660-tonne steel ball swings so the tower doesn't.",
+      "facts": [
+        "660-tonne pendulum hung from the 92nd floor, between floors 87 and 92 of a 508 m tower",
+        "Moves against the building's sway and turns the energy to heat",
+        "Biggest recorded swing 1 m, Typhoon Soudelor, Aug 2015, winds about 160 km/h",
+        "Tallest building in the world 2004-2010"
+      ],
+      "sources": [
+        "https://www.guinnessworldrecords.com/world-records/774616-largest-tuned-mass-damper"
+      ]
+    },
+    {
+      "rank": 5,
+      "title_idea": "The Clock That Beat Every Scientist",
+      "family": "invention-that-saved-lives",
+      "hook": "Ships were getting lost because nobody could find longitude, until a carpenter's son built a clock.",
+      "facts": [
+        "1714 Longitude Act, prize \u00a320,000 (about \u00a32.08M today)",
+        "Isle of Scilly 1707: upwards of 1,400 sailors died",
+        "John Harrison, carpenter's son; made his first clock at 20",
+        "Harrison's chronometer earned \u00a310,000; Cook carried a version in 1772"
+      ],
+      "sources": [
+        "https://www.nesta.org.uk/news/guide-historical-challenge-prizes/british-longitude-prize"
+      ]
+    },
+    {
+      "rank": 6,
+      "title_idea": "The Man Who Invented Not Falling (Otis)",
+      "family": "invention-that-saved-lives",
+      "hook": "Otis didn't invent the elevator. He invented the elevator that doesn't fall.",
+      "facts": [
+        "Model hoist shipped to NY Crystal Palace 5 May 1854",
+        "Per the NY Tribune (30 May 1854) he rode the platform and cut the rope; safety held",
+        "Safety: toothed guide rails + spring-loaded pads that grip if rope tension is lost",
+        "DO NOT quote 'All safe, gentlemen': no record found"
+      ],
+      "sources": [
+        "https://elevatorworld.com/?p=44063"
+      ]
+    },
+    {
+      "rank": 7,
+      "title_idea": "Why Hoover Dam Was Built in Columns",
+      "family": "hidden-engineering",
+      "status": "NEEDS SOURCE CHECK before use (the 125-years-to-cool figure and cooling pipes are widely repeated but not yet verified from a primary page)"
+    },
+    {
+      "rank": 8,
+      "title_idea": "Why Train Wheels Are Cone-Shaped",
+      "family": "hidden-engineering",
+      "status": "NEEDS SOURCE CHECK (conical tread self-steering explanation)"
+    }
+  ],
+  "rules": [
+    "Lighthouse video: 761 views in ~4h, 14 likes, public Nov 19. Eiffel: 1,125 views, 68% average viewed. Mincemeat: 104 views, 46% avg. Pig War uploaded Nov 19 12:46Z, private.",
+    "Pattern: curiosity 'how does this work / what changed everything' + a concrete number or date in the first line beat obscure story topics. Lighthouse used a tiny 3D build look.",
+    "Title shape: 'The ___ That Changed ___' or a surprising question; first 2 seconds = the strangest fact; end with 'Which one next?' comment CTA; sources with links in description.",
+    "Every second day: run daily, exit quietly if the newest video in the log is under 40 hours old."
+  ]
+}
