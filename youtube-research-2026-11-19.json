@@ -1,0 +1,28 @@
+{
+  "date": "2026-11-19",
+  "method": "YouTube search (type=video, videoDuration=short, order=viewCount, publishedAfter 2026-10-20) for 4 query families, then videos?part=statistics. About 60 Shorts.",
+  "findings": [
+    "Construction/'how is it built' Shorts are far ahead: bridges and dams 300k-2.5M views (e.g. 'How You Accidentally Build A Thousand Year old Bridge' 2.49M, 'How Are Bridges Built?' Telugu 2.46M, 'How Humans Invented the Perfect Bridge' 2.35M, glass-bottom bridge 3D 2.07M, 'How Dams Work' Telugu 1.92M, Anshun covered bridge 1.74M).",
+    "Many top results are in Hindi/Telugu/Tamil/other Indian languages and about Indian structures: Howrah Bridge 832k (Hindi), Pamban + Chenab bridges 810k, Havelock bridge 683k, Polavaram dam 354k, Kallanai (Grand Anicut) 2000-year dam 336k (Tamil), Bogibeel bridge 417k.",
+    "Best English example found: 'The Skyscraper Built on a Loophole' (Vancouver House) 644k views, 361 comments.",
+    "English 'invention history' Shorts do much smaller: escalator 41k, Otis elevator 26k, soda tab 26k, most 1k-10k. 'Real reason X exists' history facts mostly 1-2k.",
+    "Titles that work: 'How was X built', 'How do you build a bridge across a cliff?', impossible-feeling claims (no pillars, no cement, 2000 years old), emoji like 😱, 3D animation.",
+    "Satisfying tiny-world/ants animations did poorly (30-96 views).",
+    "Caveat: sample is search results sorted by views, so it shows what can reach big numbers, not an average; some big channels may be older/popular channels."
+  ],
+  "channel_numbers": {
+    "lighthouse": "761 views in ~4h",
+    "eiffel": "1,287",
+    "mincemeat": "134"
+  },
+  "candidate_topics_to_verify_before_use": [
+    "How the Howrah Bridge was built (cantilever over the Hooghly, no piers in the river, opened 1943)",
+    "Kallanai / Grand Anicut: the 2,000-year-old dam still working",
+    "New Pamban Bridge (vertical lift) and why the old one needed to open for ships",
+    "Chenab Bridge: how the world's highest railway arch was built",
+    "How a dam is built across a river that never stops (river diversion)",
+    "How a bridge is built across a gorge or cliff (cable and cantilever method)",
+    "Vancouver House: the skyscraper built on a loophole",
+    "Glass skywalk on a cliff: how it is built"
+  ]
+}
