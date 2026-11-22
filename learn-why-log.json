@@ -103,6 +103,22 @@
    "uploaded": "2026-11-22",
    "privacy": "private",
    "type": "long"
+  },
+  {
+   "topic": "Why airplane windows don't crack at 35,000 ft (the tiny breather hole)",
+   "date": "2026-11-22",
+   "videoId": "2r6ZJ2CRv_I",
+   "title": "35,000 फ़ुट पर हवाई जहाज़ की खिड़की टूटती क्यों नहीं? 😱 Airplane Window Hole #shorts",
+   "format": "Hindi audio hf_beta, English subtitles, 49.3 s, science-facts lane",
+   "status": "private, awaiting Rutvi to publish in Studio",
+   "sources": [
+    "https://www.mentalfloss.com/transportation/planes-airports/why-airplane-windows-have-tiny-holes",
+    "https://gizmodo.com/why-is-there-a-hole-in-airplane-windows-1703660371",
+    "https://www.globalair.com/articles/why-do-airplane-windows-have-tiny-holes/11063",
+    "https://www.afar.com/magazine/why-airplane-windows-have-tiny-holes",
+    "https://www.sciencing.com/1997293/why-airplane-windows-have-tiny-bleed-hole"
+   ],
+   "notes": "Left out the fog claim (only 1 of 5 sources caveats it, Gizmodo says windows fog anyway) and the psi numbers (single source). Whisper unavailable; captions via fallback. Run was forced after the <3h rule because the previous upload was a long video."
   }
  ],
  "learnings": [
@@ -118,5 +134,11 @@
   },
   "Nov 19: Rutvi chose soft female Hindi voice hf_beta at speed 0.85 (gap 0.45), target ~49 s.",
   "Nov 21 (Rutvi): if any video passes ~50,000 views, make several follow-ups on the same topic/structure type and tell Rutvi. Long-form goal: 10-12 min Hindi videos (16:9, public watch hours count toward the 4,000-hour YPP path; Shorts watch time does not). First long-form sample planned: Pamban Bridge, Private. Daily Shorts continue from Nov 22."
+ ],
+ "research": [
+  {
+   "date": "2026-11-22",
+   "note": "FACT RADAR (Hindi science Shorts) keeps posting 'why doesn't X happen' Shorts on trains/planes/electricity, mostly 1 per day, all train/plane/wire topics already covered by them. Chose plane window hole (not covered by them or us). Our Howrah Short: 536 views, 3 likes after ~1 day."
+  }
  ]
 }
