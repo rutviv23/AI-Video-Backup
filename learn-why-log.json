@@ -133,7 +133,8 @@
    "status": "private, one-off style comparison with 2D (pw8dU7ymYyw); awaiting user choice of style"
   },
   "Nov 19: Rutvi chose soft female Hindi voice hf_beta at speed 0.85 (gap 0.45), target ~49 s.",
-  "Nov 21 (Rutvi): if any video passes ~50,000 views, make several follow-ups on the same topic/structure type and tell Rutvi. Long-form goal: 10-12 min Hindi videos (16:9, public watch hours count toward the 4,000-hour YPP path; Shorts watch time does not). First long-form sample planned: Pamban Bridge, Private. Daily Shorts continue from Nov 22."
+  "Nov 21 (Rutvi): if any video passes ~50,000 views, make several follow-ups on the same topic/structure type and tell Rutvi. Long-form goal: 10-12 min Hindi videos (16:9, public watch hours count toward the 4,000-hour YPP path; Shorts watch time does not). First long-form sample planned: Pamban Bridge, Private. Daily Shorts continue from Nov 22.",
+  "Nov 22 weekly review (13:48Z, live YouTube API): all 6 channel videos are PUBLIC, none private; channel 2,762 views, 6 subs. Views/age: Eiffel 1,293 @7d (17 likes, 69% avg viewed); Lighthouse 1,338 @3d (22 likes, 66%); Mincemeat 133 @6d (2 likes, 40%; it IS published, earlier note saying unpublished was wrong); Howrah Hindi Short 574 @32h (3 likes); Plane window Hindi Short 186 @7h (1 like); Bird game long 1 view @8.5h. 0 comments on every video. The 4-video hook test videos (Emu War, Pig War, Forger v2) are not on the channel, so the test has no data yet. Learnings: curiosity 'how it works' + number/date hook (Lighthouse) and famous subject (Eiffel) each reach ~1.3k; obscure WWII (Mincemeat) stays ~130; Hindi Shorts early pace is healthy vs Mincemeat but ages differ so wait for equal ages. No comments on any video: ask a yes/no question on screen. Analytics API reachable (video dimension needs maxResults); policy/copyright notices are not visible via API."
  ],
  "research": [
   {
