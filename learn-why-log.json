@@ -119,6 +119,19 @@
     "https://www.sciencing.com/1997293/why-airplane-windows-have-tiny-bleed-hole"
    ],
    "notes": "Left out the fog claim (only 1 of 5 sources caveats it, Gizmodo says windows fog anyway) and the psi numbers (single source). Whisper unavailable; captions via fallback. Run was forced after the <3h rule because the previous upload was a long video."
+  },
+  {
+   "topic": "Why a rocket engine doesn't melt in 3,000°C+ fire (regenerative cooling)",
+   "date": "2026-11-23",
+   "videoId": "4SvYM7VJCR0",
+   "title": "3000°C की आग में रॉकेट का इंजन पिघलता क्यों नहीं? 😱 Rocket Engine Cooling #shorts",
+   "status": "private, awaiting Rutvi to publish in Studio",
+   "sources": [
+    "https://everydayastronaut.com/engine-cooling-methodes/",
+    "https://en.wikipedia.org/wiki/Regenerative_cooling_(rocketry)",
+    "https://taylorandfrancis.com/knowledge/Engineering_and_technology/Aerospace_engineering/Regenerative_cooling"
+   ],
+   "notes": "Hindi hf_beta, 51.3 s. Exact temperature/melting points kept vague (sources differ). No ISRO claim (no source says Vikas is regeneratively cooled). add_repo/WebFetch not directly available; subagents used for reading pages."
   }
  ],
  "learnings": [
@@ -140,6 +153,10 @@
   {
    "date": "2026-11-22",
    "note": "FACT RADAR (Hindi science Shorts) keeps posting 'why doesn't X happen' Shorts on trains/planes/electricity, mostly 1 per day, all train/plane/wire topics already covered by them. Chose plane window hole (not covered by them or us). Our Howrah Short: 536 views, 3 likes after ~1 day."
+  },
+  {
+   "date": "2026-11-23",
+   "note": "FACT RADAR keeps covering trains/planes/wires daily (train wire 25kV rain, wheel 700C, 400kV wire, oxygen, tyre, submarine). Gaps: rockets, kitchen, crackers, phones. Fresh trend: boiling water in space, moon smell. Our views: plane window 204 views/1 like at ~23h, Howrah 579/3 at ~2d, birds game 2 views. Chose rocket engine cooling (not covered by us)."
   }
  ]
 }
