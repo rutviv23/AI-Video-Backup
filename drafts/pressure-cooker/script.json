@@ -1,0 +1,58 @@
+{
+ "title": "Why a pressure cooker doesn't explode (Hindi audio, English captions)",
+ "voice": "hf_beta",
+ "speed": 1.0,
+ "lang": "hi",
+ "lead": 0.35,
+ "outro": 1.0,
+ "gap": 0.45,
+ "music": "bed",
+ "sources": [
+  "Wikipedia, 'Pressure cooking' (about 15 psi / 1 bar above atmospheric, water about 120 C, valve releases steam at set pressure, backup safety valve if vent is blocked, fill limits 2/3, lid locked while pressurised)",
+  "Modernist Cuisine, 'How Pressure Cookers Work' (121 C at 1 bar, 114 C at 0.7 bar, spring valve reopens the vent at high pressure, no more than two-thirds full, lid lock)",
+  "ScienceABC, 'How Does A Pressure Cooker Work?' (higher boiling point means faster cooking; control valve lifts automatically; safety valve at the top)",
+  "Indiana Public Media, 'Cooking Under Pressure' (vent releases steam at the right pressure; safety valve in case the vent gets stuck; hotter, so cooks faster)"
+ ],
+ "lines": [
+  {
+   "text": "कुकर के अंदर पानी क़रीब एक सौ बीस डिग्री पर उबलता है। फिर भी कुकर फटता क्यों नहीं?",
+   "caps": "inside a cooker | water boils near | *120 degrees | so why no *explosion?"
+  },
+  {
+   "text": "ढक्कन बंद है, इसलिए भाप जमा होती है, और दबाव बढ़ता जाता है।",
+   "caps": "the lid is *sealed | steam piles up | so *pressure | keeps building"
+  },
+  {
+   "text": "ज़्यादा दबाव में पानी ज़्यादा गरम हो पाता है। इसलिए दाल जल्दी गल जाती है।",
+   "caps": "more pressure | water gets *hotter | so dal cooks *faster"
+  },
+  {
+   "text": "ये दबाव बाहर की हवा से क़रीब एक बार तक ज़्यादा हो जाता है।",
+   "caps": "that pressure reaches | about *1 bar | above the air outside"
+  },
+  {
+   "text": "लेकिन ढक्कन पर एक वाल्व है। दबाव तय सीमा पर पहुँचे, तो वो भाप छोड़ देता है।",
+   "caps": "but the lid has a *valve | at the set limit | it *lets steam out"
+  },
+  {
+   "text": "भाप निकलते ही दबाव फिर क़ाबू में आ जाता है।",
+   "caps": "steam out | pressure *drops back | under *control"
+  },
+  {
+   "text": "अगर उसमें खाना फँस जाए? तब भी एक बैकअप सेफ़्टी वाल्व तैयार रहता है।",
+   "caps": "what if food *blocks it? | a *backup valve | is ready"
+  },
+  {
+   "text": "इसीलिए कुकर को दो तिहाई से ज़्यादा नहीं भरना चाहिए।",
+   "caps": "so never fill it | beyond *two thirds"
+  },
+  {
+   "text": "और कई कुकर में, जब तक दबाव कम न हो, ढक्कन खुलता ही नहीं।",
+   "caps": "in many cookers | the lid *stays locked | until pressure drops"
+  },
+  {
+   "text": "तो बताओ, कुकर को बचाता है, ए, मज़बूत ढक्कन, या बी, भाप छोड़ने वाला वाल्व? कमेंट में बताओ!",
+   "caps": "*a: strong lid | or | *b: the steam valve? | tell us below"
+  }
+ ]
+}

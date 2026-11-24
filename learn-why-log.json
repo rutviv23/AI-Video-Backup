@@ -132,6 +132,20 @@
     "https://taylorandfrancis.com/knowledge/Engineering_and_technology/Aerospace_engineering/Regenerative_cooling"
    ],
    "notes": "Hindi hf_beta, 51.3 s. Exact temperature/melting points kept vague (sources differ). No ISRO claim (no source says Vikas is regeneratively cooled). add_repo/WebFetch not directly available; subagents used for reading pages."
+  },
+  {
+   "topic": "Why a pressure cooker doesn't explode (valve + backup valve)",
+   "date": "2026-11-24",
+   "videoId": null,
+   "title": "120°C पर भी प्रेशर कुकर फटता क्यों नहीं? 😱 Pressure Cooker Science #shorts",
+   "status": "NOT UPLOADED: YouTube upload returned HTTP 429 three times (about 3 min apart). Finished 51.3 s MP4 was rendered; script.json + shots.js saved in drafts/pressure-cooker/ so the next run can re-render (~2 min) and upload.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Pressure_cooking",
+    "https://modernistcuisine.com/mc/how-pressure-cookers-work/",
+    "https://www.scienceabc.com/innovation/pressure-cooker-work.html",
+    "https://www.ipm.org/amomentofscience/cooking-under-pressure/"
+   ],
+   "notes": "Chosen: kitchen gap, competitor (small channel) covered it only once. Left out whistle/jiggler claim and exact psi (only 1 source). Videos stats at run time: rocket 108 views/1 like (~1d), plane window 217/1 (~2d), Howrah 576/3 (~3d). All earlier uploads are public."
   }
  ],
  "learnings": [
@@ -157,6 +171,10 @@
   {
    "date": "2026-11-23",
    "note": "FACT RADAR keeps covering trains/planes/wires daily (train wire 25kV rain, wheel 700C, 400kV wire, oxygen, tyre, submarine). Gaps: rockets, kitchen, crackers, phones. Fresh trend: boiling water in space, moon smell. Our views: plane window 204 views/1 like at ~23h, Howrah 579/3 at ~2d, birds game 2 views. Chose rocket engine cooling (not covered by us)."
+  },
+  {
+   "date": "2026-11-24",
+   "note": "FACT RADAR still daily on trains/planes (door, tyre, wheel). Others copy the pattern: ships not sinking/capsizing, induction, petrol tanker slosh, water-slide, balloon over flame. Kitchen gap: pressure cooker (picked). IN science trending chart is mostly gadgets, no science news hook."
   }
  ]
 }
