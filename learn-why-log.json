@@ -164,7 +164,7 @@
    "date": "2026-11-25",
    "videoId": null,
    "title": "अंतरिक्ष में हवा नहीं, फिर रॉकेट किस पर धक्का देता है? 🚀 #shorts",
-   "status": "Made at Rutvi's request (bright colours, new topic after she disliked the thermos video); MP4 sent to her in chat to upload herself. Not uploaded by Claude (YouTube API 429 earlier).",
+   "status": "Upload retried twice more, still HTTP 429; MP4 sent to Rutvi in chat to upload herself. MP4 removed from repo. Daily task prompt updated Nov 25: bright look, space/engineering first, send MP4 if upload fails.",
    "sources": [
     "https://www1.grc.nasa.gov/beginners-guide-to-aeronautics/rocket-thrust/",
     "https://www.nasa.gov/learning-resources/for-kids-and-students/what-is-a-rocket/",
