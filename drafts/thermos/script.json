@@ -1,0 +1,56 @@
+{
+ "title": "Why a Thermos Keeps Tea Hot (Hindi audio, English captions)",
+ "voice": "hf_beta",
+ "speed": 1.0,
+ "lang": "hi",
+ "lead": 0.35,
+ "outro": 1.0,
+ "gap": 0.45,
+ "music": "bed",
+ "sources": [
+  "HowStuffWorks, 'How Thermoses (Vacuum Flasks) Work' (glass envelope with vacuum, silvered like a mirror; vacuum removes conduction and convection, silvering reduces radiation; cap is the largest leak; heat transfer small but not zero)",
+  "Explain that Stuff, 'Vacuum flasks' (vacuum between two layers, reflective lining reflects infrared, stopper stops air flow, some heat still escapes mostly through the stopper; also keeps drinks cold)"
+ ],
+ "lines": [
+  {
+   "text": "सौ डिग्री की चाय थर्मस में देर तक गरम क्यों रहती है?",
+   "caps": "*hundred degree tea | stays hot in a *thermos | but *why?"
+  },
+  {
+   "text": "क्योंकि गर्मी हमेशा बाहर भागना चाहती है, और उसके पास तीन रास्ते होते हैं।",
+   "caps": "heat always wants *out | and it has *three paths"
+  },
+  {
+   "text": "छूकर, यानी कंडक्शन। हवा के बहने से, यानी कन्वेक्शन। और किरणों से, यानी रेडिएशन।",
+   "caps": "*conduction | *convection | *radiation"
+  },
+  {
+   "text": "थर्मस में दो दीवारें होती हैं, और उनके बीच से हवा निकाल दी जाती है।",
+   "caps": "a thermos has *two walls | with the *air removed | between them"
+  },
+  {
+   "text": "हवा ही नहीं है, तो गर्मी छूकर या हवा में बहकर पार नहीं जा सकती।",
+   "caps": "no air in the gap | so heat has *no way | to *cross it"
+  },
+  {
+   "text": "दीवार पर शीशे जैसी परत है, जो गर्मी की किरणों को वापस लौटा देती है।",
+   "caps": "a *mirror coating | bounces heat rays | *back inside"
+  },
+  {
+   "text": "कसकर बंद ढक्कन गरम हवा को बाहर निकलने नहीं देता।",
+   "caps": "a *tight lid | stops hot air | from *escaping"
+  },
+  {
+   "text": "थोड़ी गर्मी फिर भी निकलती है, ज़्यादातर ढक्कन से। इसीलिए चाय आख़िर में ठंडी हो जाती है।",
+   "caps": "a little heat *still leaks | mostly through the *lid | so tea *slowly cools"
+  },
+  {
+   "text": "यही तरकीब ठंडे पानी को भी ठंडा रखती है, गर्मी को अंदर आने से रोककर।",
+   "caps": "the same trick keeps *cold drinks cold | by blocking *heat coming in"
+  },
+  {
+   "text": "सबसे कमज़ोर हिस्सा कौन सा है: ढक्कन या शीशा? बताओ!",
+   "caps": "weakest part: *lid or *glass? | tell us in the *comments"
+  }
+ ]
+}
