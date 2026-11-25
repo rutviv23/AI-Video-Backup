@@ -146,6 +146,18 @@
     "https://www.ipm.org/amomentofscience/cooking-under-pressure/"
    ],
    "notes": "Chosen: kitchen gap, competitor (small channel) covered it only once. Left out whistle/jiggler claim and exact psi (only 1 source). Videos stats at run time: rocket 108 views/1 like (~1d), plane window 217/1 (~2d), Howrah 576/3 (~3d). All earlier uploads are public."
+  },
+  {
+   "topic": "Why a thermos keeps 100°C tea hot (vacuum + mirror coating + lid)",
+   "date": "2026-11-25",
+   "videoId": null,
+   "title": "100°C की चाय थर्मस में देर तक गरम क्यों रहती है? 😱 Thermos Flask Science #shorts",
+   "status": "NOT UPLOADED: YouTube upload returned HTTP 429 three times (about 3 min apart), same as Nov 24. Finished 51.2 s MP4 rendered; script.json + shots.js saved in drafts/thermos/ for re-render (~2 min) and upload. MP4 removed from the repo.",
+   "sources": [
+    "https://home.howstuffworks.com/thermos.htm",
+    "https://www.explainthatstuff.com/vacuumflasks.html"
+   ],
+   "notes": "Only 2 sources read (Britannica/Wikipedia blocked), claims limited to what both agree; no duration numbers, no inventor date. Mirror shot sparkle bug fixed. Rutvi asked for chemistry topics too: ideas added to topic-bank.json."
   }
  ],
  "learnings": [
