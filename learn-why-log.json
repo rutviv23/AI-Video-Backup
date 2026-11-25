@@ -158,6 +158,20 @@
     "https://www.explainthatstuff.com/vacuumflasks.html"
    ],
    "notes": "Only 2 sources read (Britannica/Wikipedia blocked), claims limited to what both agree; no duration numbers, no inventor date. Mirror shot sparkle bug fixed. Rutvi asked for chemistry topics too: ideas added to topic-bank.json."
+  },
+  {
+   "topic": "How a rocket flies in space with no air to push against (Newton's 3rd law)",
+   "date": "2026-11-25",
+   "videoId": null,
+   "title": "अंतरिक्ष में हवा नहीं, फिर रॉकेट किस पर धक्का देता है? 🚀 #shorts",
+   "status": "Made at Rutvi's request (bright colours, new topic after she disliked the thermos video); MP4 sent to her in chat to upload herself. Not uploaded by Claude (YouTube API 429 earlier).",
+   "sources": [
+    "https://www1.grc.nasa.gov/beginners-guide-to-aeronautics/rocket-thrust/",
+    "https://www.nasa.gov/learning-resources/for-kids-and-students/what-is-a-rocket/",
+    "https://www.scienceabc.com/nature/universe/how-can-a-rocket-turn-in-space-when-there-is-no-atmosphere",
+    "https://www.kroneckerwallis.com/newtons-third-law-in-space-how-rockets-actually-work/"
+   ],
+   "notes": "Bright sky/space palette, vignette lowered (main.js K.vignette(0.12)). Research Nov 25 (Hindi Shorts, 3 weeks): 'rocket kaise bina hawa ke udta hai' 560k views, ORBITAL MIND rocket 3000C 147k, heat shield 28,000 km/h 81k; chemistry Shorts mostly under 2k (cloves 18k, okra 12k), so space/rocket/engineering beats chemistry. Next ideas: heat shield re-entry, why satellites don't fall, rocket water deluge at launch. Orbital speed omitted (no source in set)."
   }
  ],
  "learnings": [
@@ -187,6 +201,10 @@
   {
    "date": "2026-11-24",
    "note": "FACT RADAR still daily on trains/planes (door, tyre, wheel). Others copy the pattern: ships not sinking/capsizing, induction, petrol tanker slosh, water-slide, balloon over flame. Kitchen gap: pressure cooker (picked). IN science trending chart is mostly gadgets, no science news hook."
+  },
+  {
+   "date": "2026-11-25",
+   "note": "Hindi Shorts last 3 weeks by views: rocket-without-air 560k, rocket engine 3000C 147k, heat shield 81k, alcohol effects 290k (health, skip). Chemistry (onion, rust, fireworks, apple) mostly 400-2,000 views. Space/rocket 'why' with a surprising condition wins. Our views: pressure cooker 361, plane window 217, rocket engine cooling 161."
   }
  ]
 }

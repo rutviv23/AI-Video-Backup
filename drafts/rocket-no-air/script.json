@@ -1,0 +1,58 @@
+{
+ "title": "How a Rocket Flies With No Air (Hindi audio, English captions)",
+ "voice": "hf_beta",
+ "speed": 1.0,
+ "lead": 0.35,
+ "outro": 1.0,
+ "gap": 0.45,
+ "music": "bed",
+ "sources": [
+  "NASA Glenn, 'Rocket Thrust' (thrust by Newton's third law; rockets produce thrust in a vacuum, no external air brought on board)",
+  "NASA, 'What Is a Rocket?' (in the vacuum of space an engine has nothing to push against; Newton's third law; exhaust pushes the rocket; a rocket carries everything it needs, a jet engine needs oxygen from the air)",
+  "ScienceABC, 'How Can a Rocket Turn in Space When There Is No Atmosphere' (moves without air to push against, thanks to Newton's third law; exhaust gases pushing back give a forward reaction)",
+  "Kronecker Wallis, 'Newton's Third Law in Space: How Rockets Actually Work' (corrects the idea that the rocket pushes on ground or atmosphere; rocket and exhaust are the force pair; works in a vacuum)"
+ ],
+ "lines": [
+  {
+   "text": "अंतरिक्ष में हवा नहीं होती, तो रॉकेट आख़िर किस पर धक्का देकर आगे बढ़ता है?",
+   "caps": "there is *no air in space | so what does a rocket *push against?"
+  },
+  {
+   "text": "बहुत लोग सोचते हैं कि रॉकेट ज़मीन या हवा को धक्का देता है, पर ये ग़लत है।",
+   "caps": "many think it pushes the *ground or air | but that is *wrong"
+  },
+  {
+   "text": "रॉकेट ईंधन जलाता है, और गरम गैस को बहुत तेज़ी से पीछे फेंकता है।",
+   "caps": "it burns *fuel | and throws hot *gas | out the back"
+  },
+  {
+   "text": "न्यूटन का तीसरा नियम: हर क्रिया की बराबर और उलटी प्रतिक्रिया होती है।",
+   "caps": "*newton's third law | every action has an *equal and opposite reaction"
+  },
+  {
+   "text": "रॉकेट गैस को पीछे धकेलता है, और गैस रॉकेट को आगे धकेल देती है।",
+   "caps": "rocket pushes *gas back | gas pushes rocket *forward"
+  },
+  {
+   "text": "इसमें हवा की ज़रूरत ही नहीं, बस रॉकेट और उसकी अपनी गैस चाहिए।",
+   "caps": "*no air needed | just the rocket and *its own gas"
+  },
+  {
+   "text": "जैसे गुब्बारे की हवा पीछे निकलती है, और गुब्बारा आगे भाग जाता है।",
+   "caps": "like a *balloon | air goes back | balloon *shoots forward"
+  },
+  {
+   "text": "जेट इंजन हवा से ऑक्सीजन लेता है, पर रॉकेट सब कुछ साथ लेकर चलता है।",
+   "caps": "a jet engine needs *air | a rocket *carries everything itself"
+  },
+  {
+   "text": "इसलिए रॉकेट अंतरिक्ष में भी चलता है, जहाँ हवा बिल्कुल नहीं है।",
+   "caps": "so it works in *space | where there is *no air"
+  },
+  {
+   "text": "तुम्हें क्या लगता था: रॉकेट हवा को धक्का देता है या ज़मीन को? बताओ!",
+   "caps": "what did you think: *air or *ground? | tell us in the *comments"
+  }
+ ],
+ "lang": "hi"
+}
