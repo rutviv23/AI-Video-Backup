@@ -1,0 +1,46 @@
+{
+ "title": "The Invisible Gorilla attention test (Hindi audio, English captions)",
+ "lang": "hi",
+ "voice": "hf_beta",
+ "speed": 1.0,
+ "gap": 0.45,
+ "lead": 0.35,
+ "outro": 1.0,
+ "music": "bed",
+ "sources": [
+  "APA Monitor, 'Sights unseen' (April 2001): https://www.apa.org/monitor/apr01/blindness (Simons & Chabris 1999; viewers counted one team's passes; person in a gorilla suit walked in, faced the camera, thumped chest, on screen 9 seconds; half of observers missed it)",
+  "Noba Project, 'Failures of Awareness: The Case of Inattentional Blindness' by Daniel Simons: https://opentext.ku.edu/teams/chapter/inattentional-blindness (definition: failure to notice an unexpected object when attention is focused elsewhere; limits of attention; half missed the gorilla; nine seconds on screen)",
+  "Smithsonian Magazine, 'But Did You See the Gorilla?': https://www.smithsonianmag.com/science-nature/but-did-you-see-the-gorilla-the-problem-with-inattentional-blindness-17339778/ (half the viewers missed it; chest thump)",
+  "Scientific American, 'How Blind Are We?': https://www.scientificamerican.com/article/how-blind-are-we/ (about 50 percent fail to notice the gorilla)"
+ ],
+ "lines": [
+  {
+   "text": "चैलेंज! गिनिए, लाल टीम आपस में गेंद कितनी बार पास करती है?",
+   "caps": "quick *challenge! | count the *red | team's *passes"
+  },
+  {
+   "text": "नज़र गेंद पर रखिए, एक भी पास मत छोड़िए!",
+   "caps": "eyes on the *ball! | don't miss *one"
+  },
+  {
+   "text": "जवाब है सात! लेकिन क्या आपने बीच से जाता पेंगुइन देखा?",
+   "caps": "the answer is *seven! | but did you | see the *penguin?"
+  },
+  {
+   "text": "एक मशहूर प्रयोग में, लगभग आधे लोगों को गोरिल्ला दिखा ही नहीं!",
+   "caps": "in a famous *experiment | about *half | the viewers | never saw a *gorilla!"
+  },
+  {
+   "text": "गोरिल्ला सूट वाला इंसान नौ सेकंड स्क्रीन पर रहा, छाती भी ठोकी!",
+   "caps": "a person in | a *gorilla suit | was on screen | for *nine seconds | and even *thumped | their chest!"
+  },
+  {
+   "text": "वजह? ध्यान सीमित है, टॉर्च की तरह: जिधर रोशनी, वही नज़र आए।",
+   "caps": "why? *attention | is limited | like a *torch, | we notice | what it *lights"
+  },
+  {
+   "text": "अब सच बताइए, पेंगुइन दिखा था या नहीं? कमेंट में लिखिए!",
+   "caps": "be honest: | penguin, *yes or *no? | tell us in the *comments"
+  }
+ ]
+}
