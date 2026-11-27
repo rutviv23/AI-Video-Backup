@@ -1,0 +1,54 @@
+{
+  "title": "4 places that sound fake but are real (English)",
+  "voice": "af_heart",
+  "speed": 1.1,
+  "gap": 0.3,
+  "lead": 0.2,
+  "outro": 0.9,
+  "music": "bed",
+  "sources": [
+    "NOAA Ocean Service, 'What is the Bloop?': https://oceanservice.noaa.gov/facts/bloop.html (recorded 1997 by underwater microphones more than 3,219 km apart; an icequake, ice cracking off an Antarctic glacier)",
+    "Popular Science, 'The sea monster goes bloop, or does it?': https://www.popsci.com/environment/sea-monster-bloop-sound/ (1997; consistent with icequakes)",
+    "Central Asia Guide, Darvaza Gas Crater (checked Nov 2026): https://central-asia.guide/turkmenistan/destinations-tr/darvaza-gas-crater/ (burning for decades, still burning but much smaller; origin disputed)",
+    "Getaway, 'The Door to Hell' (Sept 2026): https://www.getaway.co.za/travel/travel-ideas/door-to-hell-turkmenistan-darvaza-gas-crater/ (more than 50 years; only isolated areas of fire in 2025)",
+    "National Geographic Education, Antarctica: https://education.nationalgeographic.org/resource/antarctica/ (no permanent residents; about 1,000 people in winter)",
+    "Cool Antarctica, Can you live in Antarctica?: https://www.coolantarctica.com/Antarctica%20fact%20file/science/can_you_live_in_antarctica.php (no permanent residents; about 1,000 people overwinter)",
+    "British Antarctic Survey, The Antarctic Treaty leaflet: https://www.bas.ac.uk/wp-content/uploads/2015/05/public_information_leaflet_the_antarctic_treaty.pdf (research stations; about 1,000 people in winter)",
+    "HISTORY, Derinkuyu underground city: https://www.history.com/articles/derinkuyu-turkey-underground-city (at least 18 levels, up to 20,000 people)",
+    "IFLScience, Derinkuyu: https://www.iflscience.com/derinkuyu-the-ancient-underground-cave-city-that-can-house-20000-people-69287 (18 levels, as many as 20,000 people)"
+  ],
+  "lines": [
+    {
+      "text": "Four places that sound fake, but are real!",
+      "caps": "four *places | that sound *fake, | but are *real!"
+    },
+    {
+      "text": "One: the Door to Hell. This gas crater in Turkmenistan has burned for decades,",
+      "caps": "one: the | *door to *hell. | this gas crater | in *turkmenistan | has burned | for *decades,"
+    },
+    {
+      "text": "though its fire is much smaller now.",
+      "caps": "though its fire | is much *smaller now."
+    },
+    {
+      "text": "Two: the Bloop, a giant ocean sound from nineteen ninety seven.",
+      "caps": "two: the *bloop, | a giant *ocean sound | from *nineteen ninety seven."
+    },
+    {
+      "text": "The cause? Ice cracking off Antarctica!",
+      "caps": "the cause? | *ice cracking | off *antarctica!"
+    },
+    {
+      "text": "Three: Antarctica has no permanent residents. Only about a thousand people stay for winter.",
+      "caps": "three: antarctica | has *no permanent | *residents. | only about | a *thousand people | stay for *winter."
+    },
+    {
+      "text": "Four: under Turkey hides a city, at least eighteen levels deep, with room for twenty thousand people!",
+      "caps": "four: under *turkey | hides a *city, | at least *eighteen | levels deep, | with room for | *twenty thousand | people!"
+    },
+    {
+      "text": "Which would you visit: the fire crater, or the hidden city?",
+      "caps": "which would | you visit: | the *fire crater, | or the | *hidden city?"
+    }
+  ]
+}
