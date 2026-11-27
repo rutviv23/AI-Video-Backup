@@ -188,6 +188,22 @@
     "https://www.scientificamerican.com/article/how-blind-are-we/"
    ],
    "notes": "Kept to agreed facts: about half (JHU says more than half), 9 s on screen (APA + Noba), 1999 Simons and Chabris, limited attention. A 2025 Johns Hopkins study debates whether unnoticed means fully unseen, so wording is 'did not notice'. Skipped the doorway effect (replication concerns, from background knowledge). main.js: fade-in removed so the question shows on frame 0; caption gold set to #FACC15."
+  },
+  {
+   "topic": "Death Valley sailing stones (rocks that move on their own)",
+   "category": "Mystery",
+   "date": "2026-11-27",
+   "videoId": "BRsaiS9qAFo",
+   "title": "Who Is Moving These Desert Rocks? 🪨 Death Valley Mystery #shorts #mystery",
+   "format": "Hindi audio hf_beta x1.0, English subtitles, 31.9 s, bright desert look",
+   "status": "private (upload worked on the first try; processing succeeded), awaiting Rutvi to publish in Studio",
+   "sources": [
+    "US National Park Service, 'Mystery Solved: sailing stones of Death Valley seen in action for the first time' (Aug 2014, archived): https://www.nps.gov/deva/learn/news/racetrack.htm (dry lakebed with rock trails; investigated since the 1940s; shallow pond, thin ice, sunny day ice breaks into panels, light wind drives them and they move rocks; movement recorded Dec 2013; largest rocks not yet seen moving)",
+    "Scripps Institution of Oceanography, UC San Diego news release (Aug 27, 2014): https://scripps.ucsd.edu/news/mystery-solved-sailing-stones-death-valley-seen-action-first-time (windowpane ice, light winds, a few metres per minute; Richard Norris: the biggest rocks were not seen moving)",
+    "Science News Explores, 'Solved: Mystery of the sailing rocks' (Sept 2014): https://www.snexplores.org/article/solved-mystery-sailing-rocks (thin floating ice sheet breaks on a sunny day, steady light wind pushes rocks)",
+    "Live Science, 'Racetrack Playa': https://www.livescience.com/planet-earth/geology/racetrack-playa-the-home-of-death-valley-s-mysterious-sailing-stones (dry flat lakebed; rocks not seen moving until 2013; ice panels shove rocks; open question about bigger boulders)"
+   ],
+   "notes": "Left out pond depth and ice thickness (sources differ) and the 320 kg weight (playa maximum, those big rocks were not seen moving). Question on screen is a yes/no on the open point from the 2014 study. Facts read through the web-fetch subagent."
   }
  ],
  "learnings": [
@@ -204,7 +220,8 @@
   "Nov 19: Rutvi chose soft female Hindi voice hf_beta at speed 0.85 (gap 0.45), target ~49 s.",
   "Nov 21 (Rutvi): if any video passes ~50,000 views, make several follow-ups on the same topic/structure type and tell Rutvi. Long-form goal: 10-12 min Hindi videos (16:9, public watch hours count toward the 4,000-hour YPP path; Shorts watch time does not). First long-form sample planned: Pamban Bridge, Private. Daily Shorts continue from Nov 22.",
   "Nov 22 weekly review (13:48Z, live YouTube API): all 6 channel videos are PUBLIC, none private; channel 2,762 views, 6 subs. Views/age: Eiffel 1,293 @7d (17 likes, 69% avg viewed); Lighthouse 1,338 @3d (22 likes, 66%); Mincemeat 133 @6d (2 likes, 40%; it IS published, earlier note saying unpublished was wrong); Howrah Hindi Short 574 @32h (3 likes); Plane window Hindi Short 186 @7h (1 like); Bird game long 1 view @8.5h. 0 comments on every video. The 4-video hook test videos (Emu War, Pig War, Forger v2) are not on the channel, so the test has no data yet. Learnings: curiosity 'how it works' + number/date hook (Lighthouse) and famous subject (Eiffel) each reach ~1.3k; obscure WWII (Mincemeat) stays ~130; Hindi Shorts early pace is healthy vs Mincemeat but ages differ so wait for equal ages. No comments on any video: ask a yes/no question on screen. Analytics API reachable (video dimension needs maxResults); policy/copyright notices are not visible via API.",
-  "Nov 26 channel check: pressure cooker (sIi3BDM4-FA, published Nov 24) and rocket no-air (2fMsegwZUec, Nov 25) are on the channel and public; thermos is not on the channel. No private videos. 10 subs, 4,603 channel views. Upload 429 again (Nov 24, 25, 26)."
+  "Nov 26 channel check: pressure cooker (sIi3BDM4-FA, published Nov 24) and rocket no-air (2fMsegwZUec, Nov 25) are on the channel and public; thermos is not on the channel. No private videos. 10 subs, 4,603 channel views. Upload 429 again (Nov 24, 25, 26).",
+  "Nov 27 channel check: all earlier uploads are public (Rutvi published Nov 26 gorilla and Nov 25 rocket). YouTube upload via Zapier worked again today (no 429)."
  ],
  "research": [
   {
@@ -226,6 +243,10 @@
   {
    "date": "2026-11-26",
    "note": "Psychology Thursday. Hindi Shorts (3 weeks): dark-psychology/relationship lists lead (1.9M, 1.1M, 1.0M, not safe or verifiable); 'why' science (dreams, deja vu, illusions) mostly under 2.5k; interactive eye tests did better (about 5k-17k). 7-day IN science/tech chart is gadgets, no psychology news. Picked an interactive attention test (inattentional blindness). Ideas next: why you can't tickle yourself, blind spot, cocktail party effect. Our views: rocket no-air 650 (1d), pressure cooker 441 (2d), rocket cooling 168 (3d); Howrah avg viewed 110%."
+  },
+  {
+   "date": "2026-11-27",
+   "note": "Mystery Friday. Sailing stones: 25+ Hindi Shorts in 3 weeks, top 40k, 28k, 19.5k, most small channels still 1k-3k (higher floor than other mystery topics). Blood Falls copied a lot this week (top 3.4k); Moon far side about 2.5k; ocean depth 437k. Religious/temple mysteries dominate (skipped). 7-day IN science/tech chart is gadgets, no mystery news. Our views: rocket no-air 677 (2d), pressure cooker 467 (3d), gorilla 229 (1d). Analytics avg viewed: pressure cooker 49%, rocket no-air 26%, Howrah 111%. Ideas next: Blood Falls (after the copy wave), Wow! signal, Ladakh magnetic hill."
   }
  ]
 }
