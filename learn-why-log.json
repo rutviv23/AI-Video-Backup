@@ -196,7 +196,7 @@
    "videoId": "BRsaiS9qAFo",
    "title": "Who Is Moving These Desert Rocks? 🪨 Death Valley Mystery #shorts #mystery",
    "format": "Hindi audio hf_beta x1.0, English subtitles, 31.9 s, bright desert look",
-   "status": "private (upload worked on the first try; processing succeeded), awaiting Rutvi to publish in Studio",
+   "status": "uploaded private; no longer on the channel when checked at about 14:30 IST the same day (not removed by this task). Do not repeat the topic.",
    "sources": [
     "US National Park Service, 'Mystery Solved: sailing stones of Death Valley seen in action for the first time' (Aug 2014, archived): https://www.nps.gov/deva/learn/news/racetrack.htm (dry lakebed with rock trails; investigated since the 1940s; shallow pond, thin ice, sunny day ice breaks into panels, light wind drives them and they move rocks; movement recorded Dec 2013; largest rocks not yet seen moving)",
     "Scripps Institution of Oceanography, UC San Diego news release (Aug 27, 2014): https://scripps.ucsd.edu/news/mystery-solved-sailing-stones-death-valley-seen-action-first-time (windowpane ice, light winds, a few metres per minute; Richard Norris: the biggest rocks were not seen moving)",
@@ -204,6 +204,27 @@
     "Live Science, 'Racetrack Playa': https://www.livescience.com/planet-earth/geology/racetrack-playa-the-home-of-death-valley-s-mysterious-sailing-stones (dry flat lakebed; rocks not seen moving until 2013; ice panels shove rocks; open question about bigger boulders)"
    ],
    "notes": "Left out pond depth and ice thickness (sources differ) and the 320 kg weight (playa maximum, those big rocks were not seen moving). Question on screen is a yes/no on the open point from the 2014 study. Facts read through the web-fetch subagent."
+  },
+  {
+   "topic": "4 places that sound fake but are real: Darvaza gas crater (Door to Hell), the Bloop, Antarctica has no permanent residents, Derinkuyu underground city",
+   "category": "Mystery",
+   "date": "2026-11-27",
+   "videoId": "wz8XDYaEV5E",
+   "title": "4 Places That Sound Fake But Are Real 🌍 #shorts #mystery",
+   "format": "English audio (af_heart x1.1) and captions, multi-fact list, 30.8 s, bright look",
+   "status": "private, processed successfully, awaiting Rutvi to publish in Studio",
+   "sources": [
+    "NOAA Ocean Service, 'What is the Bloop?': https://oceanservice.noaa.gov/facts/bloop.html (recorded 1997 by underwater microphones more than 3,219 km apart; an icequake, ice cracking off an Antarctic glacier)",
+    "Popular Science, 'The sea monster goes bloop, or does it?': https://www.popsci.com/environment/sea-monster-bloop-sound/ (1997; consistent with icequakes)",
+    "Central Asia Guide, Darvaza Gas Crater (checked Nov 2026): https://central-asia.guide/turkmenistan/destinations-tr/darvaza-gas-crater/ (burning for decades, still burning but much smaller; origin disputed)",
+    "Getaway, 'The Door to Hell' (Sept 2026): https://www.getaway.co.za/travel/travel-ideas/door-to-hell-turkmenistan-darvaza-gas-crater/ (more than 50 years; only isolated areas of fire in 2025)",
+    "National Geographic Education, Antarctica: https://education.nationalgeographic.org/resource/antarctica/ (no permanent residents; about 1,000 people in winter)",
+    "Cool Antarctica, Can you live in Antarctica?: https://www.coolantarctica.com/Antarctica%20fact%20file/science/can_you_live_in_antarctica.php (no permanent residents; about 1,000 people overwinter)",
+    "British Antarctic Survey, The Antarctic Treaty leaflet: https://www.bas.ac.uk/wp-content/uploads/2015/05/public_information_leaflet_the_antarctic_treaty.pdf (research stations; about 1,000 people in winter)",
+    "HISTORY, Derinkuyu underground city: https://www.history.com/articles/derinkuyu-turkey-underground-city (at least 18 levels, up to 20,000 people)",
+    "IFLScience, Derinkuyu: https://www.iflscience.com/derinkuyu-the-ancient-underground-cave-city-that-can-house-20000-people-69287 (18 levels, as many as 20,000 people)"
+   ],
+   "notes": "Second Short of the day, made on Rutvi's request after she said the first had no real facts. She chose an English voice and sent a list of strange places. Left out the disputed origin of the crater, depth of Derinkuyu, Bloop loudness and distance, summer population of Antarctica. Do not repeat any of the four places."
   }
  ],
  "learnings": [
@@ -247,6 +268,10 @@
   {
    "date": "2026-11-27",
    "note": "Mystery Friday. Sailing stones: 25+ Hindi Shorts in 3 weeks, top 40k, 28k, 19.5k, most small channels still 1k-3k (higher floor than other mystery topics). Blood Falls copied a lot this week (top 3.4k); Moon far side about 2.5k; ocean depth 437k. Religious/temple mysteries dominate (skipped). 7-day IN science/tech chart is gadgets, no mystery news. Our views: rocket no-air 677 (2d), pressure cooker 467 (3d), gorilla 229 (1d). Analytics avg viewed: pressure cooker 49%, rocket no-air 26%, Howrah 111%. Ideas next: Blood Falls (after the copy wave), Wow! signal, Ladakh magnetic hill."
+  },
+  {
+   "date": "2026-11-27",
+   "note": "Channel check (YouTube Analytics 1-27 Nov, lags 1-2 days; views / stayed / avg watched): Lighthouse English 1345 / 51% / 66%; Eiffel English 1294 / 47% / 69%; Howrah Hindi 575 / 11% / 110%; pressure cooker Hindi 366 / 40% / 49%; rocket in space Hindi 223 / 11% / 26%; window Hindi 217 / 27% / 32%; rocket cooling Hindi 163 / 14% / 25%; mincemeat English 135 / 19% / 39%. US 1715 views (76.5% avg) vs India 1129 (47.5%). 52 s cooker video lost about half by 20 s. Small sample, so treat as a lead: English, about 25-35 s, several concrete facts. Test result to compare: wz8XDYaEV5E."
   }
  ]
 }
