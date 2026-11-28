@@ -1,0 +1,46 @@
+{
+ "title": "Why Train Tracks Are Filled With Sharp Stones (Hindi audio, English captions)",
+ "lang": "hi",
+ "voice": "hf_beta",
+ "speed": 1.0,
+ "gap": 0.45,
+ "lead": 0.35,
+ "outro": 1.0,
+ "music": "bed",
+ "sources": [
+  "Wikipedia, 'Track ballast' - https://en.wikipedia.org/wiki/Track_ballast (bears the load, holds the track in place, drainage, keeps down vegetation, stones must be irregular with sharp edges to interlock)",
+  "ScienceDirect Topics, 'Ballast Layer' - https://www.sciencedirect.com/topics/engineering/ballast-layer (transmits train load to the ground at an acceptable level, resists sleeper movement, drainage, suppresses vegetation, hard irregular crushed rock)",
+  "Mental Floss, 'Why Are Train Tracks Built on Rocks?' - https://www.mentalfloss.com/transportation/trains/why-train-tracks-are-built-on-rocks (spreads pressure and weight, drains rainwater, discourages vegetation, smooth stones would slip and slide)",
+  "Futura Sciences, 'Those Stones Have a Name: Ballast' - https://www.futura-sciences.com/en/why-are-railroad-tracks-covered-in-crushed-stone-the-answer-is-smarter-than-it-looks_35457/ (wider load area, supports the ties that hold the rails, drainage, harder for plants to grow, angular crushed rock rather than smooth pebbles)"
+ ],
+ "lines": [
+  {
+   "text": "हर सफ़र में दिखते हैं, पर पटरी के नीचे इतने पत्थर क्यों?",
+   "caps": "seen on every *trip | but why all these *stones?"
+  },
+  {
+   "text": "भारी ट्रेन का वज़न ये पत्थर ज़मीन के बड़े हिस्से में बाँट देते हैं।",
+   "caps": "they *spread the heavy *weight | over a wider *area"
+  },
+  {
+   "text": "ये पटरी के नीचे लगे स्लीपर को भी अपनी जगह पर टिकाए रखते हैं।",
+   "caps": "they also hold | the *sleepers under the rails | in *place"
+  },
+  {
+   "text": "बारिश का पानी इनके बीच से बह जाता है, और घास भी कम उगती है।",
+   "caps": "rainwater *drains through | and fewer *weeds grow"
+  },
+  {
+   "text": "पर असली कमाल ये है: ये पत्थर जानबूझकर नुकीले रखे जाते हैं!",
+   "caps": "the big surprise: | they are *sharp | on *purpose!"
+  },
+  {
+   "text": "नुकीले कोने आपस में फँस जाते हैं, जबकि गोल पत्थर आसानी से फिसल जाते।",
+   "caps": "sharp edges *lock together | round stones would *slide"
+  },
+  {
+   "text": "क्या आपको ये राज़ पहले से पता था? हाँ या ना?",
+   "caps": "did you already *know this? | *yes or *no?"
+  }
+ ]
+}
